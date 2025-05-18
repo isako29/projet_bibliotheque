@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 1,
+        "Titre": "Nations N\u00e8gres et Culture",
+        "Auteur": "Cheikh Anta Diop",
+        "Ann\u00e9e": 1954,
+        "Lu": false,
+        "Note": null
+    },
+    {
+        "ID": 3,
+        "Titre": "Le Vieux N\u00e8gre et la M\u00e9daille",
+        "Auteur": "Ferdinand Oyono",
+        "Ann\u00e9e": 1956,
+        "Lu": true,
+        "Note": 8.5,
+        "Commentaire": "Un classique poignant."
+    },
+    {
+        "ID": 4,
+        "Titre": "L'Aventure ambigu\u00eb",
+        "Auteur": "Cheikh Hamidou Kane",
+        "Ann\u00e9e": 1961,
+        "Lu": false,
+        "Note": null
+    },
+    {
+        "ID": 5,
+        "Titre": "Les Soleils des Ind\u00e9pendances",
+        "Auteur": "Ahmadou Kourouma",
+        "Ann\u00e9e": 1968,
+        "Lu": true,
+        "Note": 9,
+        "Commentaire": "Tr\u00e8s percutant sur l'Afrique post-coloniale."
+    },
+    {
+        "ID": 6,
+        "Titre": "mbo",
+        "Auteur": "corneil",
+        "Ann\u00e9e": 2011,
+        "Lu": false,
+        "Note": null
+    },
+    {
+        "ID": 7,
+        "Titre": "grace",
+        "Auteur": "tunasi",
+        "Ann\u00e9e": 2000,
+        "Lu": false,
+        "Note": null
+    }
+]
